@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+
+# ChromaDB
+chroma_storage/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
