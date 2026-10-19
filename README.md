@@ -1,5 +1,8 @@
 # Local README & Project Documentation RAG Assistant
 
+This project was developed as part of the **Microsoft AI Innovators Summer Program**. If you'd like to read more, check out my [detailed post on LinkedIn](https://lnkd.in/p/dGUXVaAy). I'd love to hear your feedback. Feel free to connect!
+
+---
 **A fully offline Retrieval-Augmented Generation (RAG) chatbot powered by Microsoft Foundry Local — no internet, no cloud, no data leaks.**
 
 ---
